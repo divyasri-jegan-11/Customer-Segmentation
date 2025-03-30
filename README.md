@@ -2,7 +2,7 @@
 Customer Segmentation using K-Means Clustering
 
 ## 📌 Project Overview
-This project performs **Customer Segmentation** using an **e-commerce transaction dataset**. The goal is to analyze customer behavior based on **Recency, Frequency, and Monetary (RFM) analysis** and apply **K-Means Clustering** to identify distinct customer segments.
+In this project, we aim to transform transactional data into a customer-centric dataset by creating new features that will facilitate the segmentation of customers into distinct groups using the K-means clustering algorithm. This segmentation will allow us to understand the unique profiles and preferences of various customer groups, thus amplifying the efficiency of marketing strategies and fostering increased sales. Subsequently, we intend to develop a recommendation system that suggests top-selling products to customers within each segment who haven't purchased those items yet, enhancing marketing efficacy and fostering increased sales.
 
 ## 📊 Dataset Information
 The dataset consists of online retail transactions with the following columns:
