@@ -55,7 +55,9 @@ The dataset consists of online retail transactions with the following columns:
 
 ## 📌 Next Steps
 ✅ Add machine learning predictions in Power BI using Python.
+
 ✅ Perform advanced clustering techniques (Hierarchical, DBSCAN).
+
 ✅ Expand analysis with **geographic segmentation**.
 
 
