@@ -60,5 +60,9 @@ The dataset consists of online retail transactions with the following columns:
 
 ✅ Expand analysis with **geographic segmentation**.
 
+## 📈 What was the learning??
+
+-- got insights about handling data and how customers data help in handling the sales.
+
 
 
