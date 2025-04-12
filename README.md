@@ -63,6 +63,7 @@ The dataset consists of online retail transactions with the following columns:
 ## 📈 What was the learning??
 
 -- got insights about handling data and how customers data help in handling the sales.
+-- learn how to handle the segmentation algorithm.
 
 
 
